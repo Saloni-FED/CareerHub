@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <nav className="px-5 py-3 flex justify-between ">
       <ul className="flex items-center gap-7 ml-6 text-lime-700">
-        <li className="text-3xl font-bold cursor-pointer">CareerHub</li>
+        <li className="text-4xl font-bold cursor-pointer">CareerHub</li>
         <li className="font-semibold hover:text-black cursor-pointer">Ai Resume Builder</li>
         <li className="font-semibold hover:text-black cursor-pointer">Job Application Tracker</li>
         <li className="font-semibold hover:text-black cursor-pointer">How it works</li>
